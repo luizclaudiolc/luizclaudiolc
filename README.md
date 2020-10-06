@@ -10,6 +10,7 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+Sou apaixonado por tecnologia, sou um desenvolver em processo de desenvolvimento, estou estudando outras framesworks como Bootstrap e AngularJS para aumentar meu campo de atuação. Possuo quase uma década de experiência com tecnologia, sou muito curioso e por conta disso gosto de aprender coisas novas. Mais recentemente concluí dois cursos pela Oracle, num programa feito para formar desenvolvedores, que foram desenvolvedor Front-End e Lógica, e estou quase finalizando o de Java, esse mundo do desenvolvimento me deixou encantado, agora busco formas de continuar a prendendo e desenvolvendo esses conhecimentos e habilidades.
 
 
 
