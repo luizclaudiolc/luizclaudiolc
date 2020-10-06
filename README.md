@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 
 Sou apaixonado por tecnologia, sou um desenvolver em processo de desenvolvimento, estou estudando outras framesworks como Bootstrap e AngularJS para aumentar meu campo de atuação. Possuo quase uma década de experiência com tecnologia, sou muito curioso e por conta disso gosto de aprender coisas novas. Mais recentemente concluí dois cursos pela Oracle, num programa feito para formar desenvolvedores, que foram desenvolvedor Front-End e Lógica, e estou quase finalizando o de Java, esse mundo do desenvolvimento me deixou encantado, agora busco formas de continuar a prendendo e desenvolvendo esses conhecimentos e habilidades.
 
-<h4>Skills and Tools: </h4>
+<h2>Skills and Tools: </2>
 <p align="left">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia, sou um desenvolver em processo de desenvolvimento
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
 	
-<h4>Desktop Environment: </h4>
+<h3>Desktop Environment: </h3>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
@@ -32,7 +32,7 @@ Sou apaixonado por tecnologia, sou um desenvolver em processo de desenvolvimento
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
 </p>
 
-<h2 align="center"> Github Statistics 📈 </h2>
+<h4 align="center"> Github Statistics 📈 </h4>
   
   <div align="center"> 
      <a href="">
