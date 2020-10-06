@@ -12,6 +12,11 @@ You can use the website to generate badges: https://shields.io/
 
 Sou apaixonado por tecnologia, sou um desenvolver em processo de desenvolvimento, estou estudando outras framesworks como Bootstrap e AngularJS para aumentar meu campo de atuação. Possuo quase uma década de experiência com tecnologia, sou muito curioso e por conta disso gosto de aprender coisas novas. Mais recentemente concluí dois cursos pela Oracle, num programa feito para formar desenvolvedores, que foram desenvolvedor Front-End e Lógica, e estou quase finalizando o de Java, esse mundo do desenvolvimento me deixou encantado, agora busco formas de continuar a prendendo e desenvolvendo esses conhecimentos e habilidades.
 
+<h4>Skills and Tools: </h4>
+<p align="left">
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
 
 
 
