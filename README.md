@@ -9,8 +9,17 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:luiz.claudiolc@outlook.com)
 
 &nbsp;
+Oi, seja muito bem vindo(a) a meu perfil! 
 
-Sou apaixonado por tecnologia, sou um desenvolver em processo de desenvolvimento, estou estudando outras framesworks como Bootstrap e AngularJS para aumentar meu campo de atuação. Possuo quase uma década de experiência com tecnologia, sou muito curioso e por conta disso gosto de aprender coisas novas. Mais recentemente concluí dois cursos pela Oracle, num programa feito para formar desenvolvedores, que foram desenvolvedor Front-End e Lógica, e estou quase finalizando o de Java, esse mundo do desenvolvimento me deixou encantado, agora busco formas de continuar a prendendo e desenvolvendo esses conhecimentos e habilidades.
+Sou apaixonado por tecnologia, sou um desenvolvedor em processo de desenvolvimento e transição, estou estudando tecnologias como Docket, Kubernetes, Quarkus e o Mockito para realização de testes, para aumentar meu campo de atuação.
+
+Concluí com êxito o curso de desenvolvedor Front end pelo programa Oracle Next Education da Oracle, onde pude vivenciar e aprender como desenvolver projetos Web Development com as principais tecnologias do mercado como, Java, JavaScript, HTML5, CSS, Jquery, Angular, Bootstrap, NodeJS, NPM, React, WordPress, desenvolvimento de sistemas web entre outras, também tenho experiência em técnicas de SEO e performance.
+
+Gosto bastante de aprender e me desenvolver, por isso estou sempre buscando Meetups, webnários, MaratonaDev, hackathon e bootscamp, ou seja, ambientes que trazem desafios.
+
+Sou um profissional inquieto, movido a projetos e desafios, e é justamente por isso escolhi trilhar esse caminho do desenvolvimento, foi algo que me trouxe a possibilidade de impactar positivamente milhares de pessoas através dos projetos que fizer parte, e isso me fez bilhar os olhos novamente.
+
+Fique a vontade para entrar em contato, adoro conversar. ;)
 
 <h2>Skills and Tools: </2>
 <p align="left">
