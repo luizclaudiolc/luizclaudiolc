@@ -1,7 +1,7 @@
 # Hi, i'm Luiz Claudio! :wave:
 
 - I live in :brazil: , Petrópolis-RJ.
-- I have been learning more about Ruby on Rails , Angular.
+- I have been learning more about Ruby on Rails , Angular, Typescript and D3.js.
 
 ## Mais sobre mim
 
