@@ -5,13 +5,22 @@
 
 ## Mais sobre mim
 
-Sou apaixonado por tecnologia, sou um desenvolvedor em processo de desenvolvimento, estou estudando tecnologias como Docker, Ruby on Rails, TypeScript, orientação a objetos e banco de dados relacionais.
+Oi, tudo bem? Obrigado por visitar meu perfil.
+Pense num cara curioso... É, esse sou eu. 
 
-Concluí com êxito o curso de desenvolvedor Front end pelo programa Oracle Next Education da Oracle, onde pude vivenciar e aprender como desenvolver projetos Web Development com as principais tecnologias do mercado como, Java, JavaScript, HTML5, CSS, Jquery, Angular, Bootstrap, NodeJS, NPM, React, Javascript, Typescript e desenvolvimento de sistemas web entre outras, também tenho experiência em técnicas SEO.
+Como sabemos, as coisas não param de evoluir nessa área, e por isso busco sempre está alinhando com as melhores e mais modernas práticas e ferramentas. 
 
-Gosto bastante de aprender e me desenvolver, por isso estou sempre buscando Meetups, webnários, MaratonaDev, hackathon e bootscamp, ou seja, ambientes que trazem desafios.
+Gosto de me desafiar, por isso participo de Hackathons, Meetups, palestras, maratonasDev e buscando mais conhecimento através de bootscamps.
 
-Sou um profissional inquieto, movido a projetos e desafios, e é justamente por isso que fiz o vestibular da faculdade estadual de tecnologia, e consegui entrar para o curso de TI.
+Trabalho diariamente com TypeScript, testes com Jest, API, JavaScript, Scss, Angular7+, NodeJs e construção de gráficos com D3.js, desenvolvimento ágil com Kanban, desenvolvimento em equipe.
+
+Através de um amigo cheguei até a linguagem Ruby e seu framework Rails, gosto bastante de desenvolver nessa linguagem e continuo estudando bastante para me aprofundar. 
+
+Segue abaixo as tecnologias com que eu me sinto mais confortável:
+
+Front-End: HTML5, CSS3, JavaScript, Bootstrap, Angular7+, Swiper, D3.JS.
+
+Back-End: Node, TypeScript, Ruby on Rails, Express, PostgreSQL.(Já desenvolvi projetos com essas tecnologias), MongoDB.
 
 Connect with me:
 
