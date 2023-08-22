@@ -12,15 +12,15 @@ Como sabemos, as coisas não param de evoluir nessa área, e por isso busco semp
 
 Gosto de me desafiar, por isso participo de Hackathons, Meetups, palestras, maratonasDev e buscando mais conhecimento através de bootscamps.
 
-Trabalho diariamente com TypeScript, testes com Jest, API, JavaScript, Scss, Angular7+, NodeJs e construção de gráficos com D3.js, desenvolvimento ágil com Kanban, desenvolvimento em equipe.
+Trabalho diariamente com TypeScript, testes com Jest, construção e manutenção de API, microserviços, JavaScript, Scss, Angular7+, NodeJs e construção de gráficos e dashbords com D3.js, GraphQL, desenvolvimento ágil com Kanban/Scrum, desenvolvimento em equipe, qualidade do código e patterns.
 
 Através de um amigo cheguei até a linguagem Ruby e seu framework Rails, gosto bastante de desenvolver nessa linguagem e continuo estudando bastante para me aprofundar. 
 
 Segue abaixo as tecnologias com que eu me sinto mais confortável:
 
-Front-End: HTML5, CSS3, JavaScript, Bootstrap, Angular7+, Swiper, D3.JS.
+Front-End: Typescript, JavaScript, Angular, Swiper, D3.js, React, HTML, pré-processadores.
 
-Back-End: Node, TypeScript, Ruby on Rails, Express, PostgreSQL.(Já desenvolvi projetos com essas tecnologias), MongoDB.
+Back-End: Node, TypeScript, Ruby on Rails, microservicos, GraphQL, APIs, banco de dados relacional e não relacional.
 
 Connect with me:
 
