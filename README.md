@@ -1,7 +1,6 @@
 # Hi, i'm Luiz Claudio! :wave:
 
 - I live in Criciúma-SC, :brazil:.
-- I have been learning more about Ruby on Rails , Angular, Typescript and D3.js.
 
 ## Mais sobre mim
 
