@@ -19,7 +19,7 @@ Segue abaixo as tecnologias com que eu me sinto mais confortável:
 
 Front-End: Typescript, JavaScript, Angular, Swiper, D3.js, React, HTML, pré-processadores.
 
-Back-End: Node, TypeScript, Ruby on Rails, microservicos, GraphQL, APIs, banco de dados relacional e não relacional.
+Back-End: Node, TypeScript, Ruby on Rails, NestJS, microservicos, GraphQL, APIs, banco de dados relacional e não relacional.
 
 Connect with me:
 
