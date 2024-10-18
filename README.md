@@ -13,6 +13,7 @@ Diariamente, trabalho com TypeScript, JavaScript, Node.js, SCSS, Angular 7+, Nes
 Aqui estão as principais tecnologias com as quais trabalho:
 
 Front-End: TypeScript, JavaScript, Angular, D3.js, React, HTML, pré-processadores.
+
 Back-End: Node.js, TypeScript, Ruby on Rails, NestJS, microserviços, GraphQL, APIs, bancos de dados relacionais e não relacionais.
 
 Vamos trocar uma ideia? Fique à vontade para explorar meus projetos e me chamar para bater um papo!
