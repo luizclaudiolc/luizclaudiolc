@@ -4,22 +4,18 @@
 
 ## Mais sobre mim
 
-Oi, tudo bem? Obrigado por visitar meu perfil.
-Pense num cara curioso... É, esse sou eu. 
+👋 Olá, tudo bem? Seja bem-vindo ao meu perfil!
 
-Como sabemos, as coisas não param de evoluir nessa área, e por isso busco sempre está alinhando com as melhores e mais modernas práticas e ferramentas. 
+Sou um desenvolvedor curioso e sempre em busca de novos desafios. A tecnologia está em constante evolução, e por isso, estou sempre aprendendo e me adaptando às melhores práticas e ferramentas mais modernas.
 
-Gosto de me desafiar, por isso participo de Hackathons, Meetups, palestras, maratonasDev e buscando mais conhecimento através de bootscamps.
+Diariamente, trabalho com TypeScript, JavaScript, Node.js, SCSS, Angular 7+, NestJS, e D3.js, além de construir APIs, microserviços e gráficos/dashboards interativos. Sou adepto de metodologias ágeis (Scrum/Kanban), sempre priorizando a qualidade do código e boas práticas de desenvolvimento em equipe.
 
-Trabalho diariamente com TypeScript, testes com Jest, construção e manutenção de API, microserviços, JavaScript, Scss, Angular7+, NodeJs e construção de gráficos e dashbords com D3.js, GraphQL, desenvolvimento ágil com Kanban/Scrum, desenvolvimento em equipe, qualidade do código e patterns.
+Aqui estão as principais tecnologias com as quais trabalho:
 
-Através de um amigo cheguei até a linguagem Ruby e seu framework Rails, gosto bastante de desenvolver nessa linguagem e continuo estudando bastante para me aprofundar. 
+Front-End: TypeScript, JavaScript, Angular, D3.js, React, HTML, pré-processadores.
+Back-End: Node.js, TypeScript, Ruby on Rails, NestJS, microserviços, GraphQL, APIs, bancos de dados relacionais e não relacionais.
 
-Segue abaixo as tecnologias com que eu me sinto mais confortável:
-
-Front-End: Typescript, JavaScript, Angular, Swiper, D3.js, React, HTML, pré-processadores.
-
-Back-End: Node, TypeScript, Ruby on Rails, NestJS, microservicos, GraphQL, APIs, banco de dados relacional e não relacional.
+Vamos trocar uma ideia? Fique à vontade para explorar meus projetos e me chamar para bater um papo!
 
 Connect with me:
 
