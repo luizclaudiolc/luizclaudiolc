@@ -1,22 +1,22 @@
 # Hi, i'm Luiz Claudio! :wave:
 
-- I live in Criciúma-SC, :brazil:.
+- I live in Petrópolis-RJ, :brazil:.
 
 ## Mais sobre mim
 
-👋 Olá, tudo bem? Seja bem-vindo ao meu perfil!
+Sou um desenvolvedor Full Stack apaixonado por tecnologia e aprendizado contínuo. Acredito que a evolução constante da nossa área exige atualização e adaptação, por isso estou sempre explorando novas ferramentas e boas práticas para construir aplicações robustas, eficientes e escaláveis.
 
-Sou um desenvolvedor curioso e sempre em busca de novos desafios. A tecnologia está em constante evolução, e por isso, estou sempre aprendendo e me adaptando às melhores práticas e ferramentas mais modernas.
+Atualmente, trabalho com TypeScript, Angular, Node.js e D3.js, desenvolvendo APIs, microserviços e dashboards interativos. Tenho experiência com testes automatizados (Jest), GraphQL, SCSS e sigo metodologias ágeis como Scrum e Kanban, sempre focado em qualidade de código, colaboração e eficiência.
 
-Diariamente, trabalho com TypeScript, JavaScript, Node.js, SCSS, Angular 7+, NestJS, e D3.js, além de construir APIs, microserviços e gráficos/dashboards interativos. Sou adepto de metodologias ágeis (Scrum/Kanban), sempre priorizando a qualidade do código e boas práticas de desenvolvimento em equipe.
+Principais Tecnologias
+- Frontend: TypeScript, JavaScript, Angular, React, D3.js, Swiper, HTML, SCSS, pré-processadores
+- Backend: Node.js, NestJS, TypeScript, Ruby on Rails, GraphQL, APIs REST, microserviços
+- Banco de Dados: PostgreSQL, MySQL, SQLServer, bancos NoSQL
+- Testes e Qualidade: Jest, JUnit
+- Metodologias e Ferramentas: Scrum, Kanban, Git, GitHub, CI/CD
 
-Aqui estão as principais tecnologias com as quais trabalho:
-
-Front-End: TypeScript, JavaScript, Angular, D3.js, React, HTML, pré-processadores.
-
-Back-End: Node.js, TypeScript, Ruby on Rails, NestJS, microserviços, GraphQL, APIs, bancos de dados relacionais e não relacionais.
-
-Vamos trocar uma ideia? Fique à vontade para explorar meus projetos e me chamar para bater um papo!
+Quer trocar uma ideia sobre tecnologia?
+Fique à vontade para me chamar! 😁😉
 
 Connect with me:
 
