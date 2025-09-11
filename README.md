@@ -1,6 +1,6 @@
 # Hi, i'm Luiz Claudio! :wave:
 
-- I live in Petrópolis-RJ, :brazil:.
+- I live in Itaipava-RJ, :brazil:.
 
 ## Mais sobre mim
 
